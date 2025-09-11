@@ -1,5 +1,4 @@
-Bottom Up Allocator
-------------------------------
+# Bottom Up Allocator
 
 Bottom up allocator for local register allocation. Takes as input a file containing ILOC 
 operations and produces an equivalent sequence with no more than (k) registers used.
